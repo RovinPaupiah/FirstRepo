@@ -9,6 +9,11 @@ table 50100 MyTable
             DataClassification = CustomerContent;
 
         }
+        field(2; Dev; Integer)
+        {
+            DataClassification = CustomerContent;
+
+        }
     }
 
     keys
